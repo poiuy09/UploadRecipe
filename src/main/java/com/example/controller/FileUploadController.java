@@ -13,7 +13,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.example.form.UploadForm;
 
-//コメントgit
+//k
 
 /***
  * ファイルアップロードのコントローラークラス
